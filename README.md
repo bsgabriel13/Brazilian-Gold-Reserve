@@ -1,23 +1,14 @@
-Bitcoin Core integration/staging tree
+Brazilian Gold Reserve 
 =====================================
 
-https://bitcoincore.org
+https://github.com/bsgabriel13/Brazilian-Gold-Reserve
 
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
-
-Further information about Bitcoin Core is available in the [doc folder](/doc).
-
-What is Bitcoin?
+What is BGR - Brazilian Gold Reserve?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
+Brazilian gold reserve is a cryptocurrency created to serve as a value reserve for investors and to transition money without interference from a bank.
 
-For more information read the original Bitcoin whitepaper.
+For more information read the original BGR whitepaper.
 
 License
 -------
@@ -68,15 +59,3 @@ Changes should be tested by somebody other than the developer who wrote the
 code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
-
-Translations
-------------
-
-Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
